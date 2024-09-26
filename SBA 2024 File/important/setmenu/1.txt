@@ -1,0 +1,4 @@
+[1] Change the output article preview method
+[2] Turn on or off word checking (affects performance) [Password required] {Password is in Word file}
+[3] Resetting
+Please enter the settings that need to be changed

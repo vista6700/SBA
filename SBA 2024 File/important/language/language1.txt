@@ -1,0 +1,18 @@
+Options: 
+language Options: 
+Please Enter <File path> : 
+<<<The file path does not exist>>>
+<<<The file is not a text file>>>
+<<<Press any key to continue>>>
+<<<Press the capital letters (Y) to view the full text>>>
+<<<Press the capital letter (S) to save the article>>>
+(Y) Save to the specified path, (N) Save to the default path
+Please enter the file path and file name
+The path already has a file with the same name. Please re-enter it and press any key to continue.
+default path"SBA 2024 File\Output_File"
+file name:
+Wrong file path or name
+Article less than 200 words may be inaccurate
+K value, only the first 6 digits are displayed, press (A) to display all K values ​​and select K value output or press any key to continue
+Enter 1-26 to select K value
+Press any key to continue output

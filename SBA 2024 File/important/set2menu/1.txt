@@ -1,0 +1,4 @@
+[1] Only the first 300 words are displayed
+[2] Not displayed
+[3] Show all
+Please enter the changed settings
